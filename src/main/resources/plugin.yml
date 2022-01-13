@@ -1,0 +1,5 @@
+name: Voiden
+main: team.sutekina.voiden.Voiden
+version: 0.0.1-SNAPSHOT
+author: Team Sutekina
+load: startup
